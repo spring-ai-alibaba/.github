@@ -21,9 +21,11 @@
 
 ## High-level Architecture
 
-[!]()
+<p align="center">
+    <img src="./saa-architecture.jpg" alt="architecture" style="width: auto; height: 700px" />
+</p>
 
-## Projects
+## More Projects
  Repository | Description | ⭐
   --- | --- | ---
 | [Spring AI Alibaba Agent Framework](https://github.com/alibaba/spring-ai-alibaba/tree/main/spring-ai-alibaba-agent-framework) |  🚀 Framework for building agent and multi-agent applications, with embedded context engineering support.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/spring-ai-alibaba?style=for-the-badge&label=)
@@ -37,4 +39,4 @@
 
 
 ## Star History
-[![Star History Chart](https://starchart.cc/alibaba/spring-ai-alibaba.svg)](https://starchart.cc/alibaba/spring-ai-alibaba)
+[![Star History Chart](https://starchart.cc/alibaba/spring-ai-alibaba.svg?variant=adaptive)](https://starchart.cc/alibaba/spring-ai-alibaba)
